@@ -1,7 +1,8 @@
 # Linux_Stuff
 Code for customizing Linux
 
-# Custom termial 
+## Custom termial 
+To creat a custom terimal go to:
 ```
 sudo nano ~/.bashrc
 ```
